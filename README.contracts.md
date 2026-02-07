@@ -115,8 +115,6 @@ This guarantees state integrity and prevents invalid transitions.
 
 ## 8- Cancel Credit Request
 
-cancelRequest
-
 ```solidity
 function cancelRequest(uint256 id) external
 ```

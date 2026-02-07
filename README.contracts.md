@@ -31,7 +31,7 @@ Main registry contract.
   - Used to verify ENS ownership
   - Interface: `IENSRegistry`
  
-  Used only when `_validateENSOwnership = true`
+  Used only when `validateENSOwnership = true`
 
 ---
 

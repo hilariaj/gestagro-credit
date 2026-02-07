@@ -68,6 +68,7 @@ function createCreditRequest(
     uint256 durationSeconds,
     string calldata metadataURI
 ) external returns (uint256 id)
+```
 
 
 ### Rules
@@ -88,6 +89,7 @@ CreditRequestCreated(
   uint256 durationSeconds,
   string metadataURI
 )
+```
 
 ---
 
@@ -102,6 +104,7 @@ enum RequestStatus {
     Funded,      // 2 (future)
     Repaid       // 3 (future)
 }
+```
 
 ### Status rules
 - Requests are created with status Open
@@ -118,6 +121,7 @@ cancelRequest
 
 ```solidity
 function cancelRequest(uint256 id) external
+```
 
 Allows a farmer to cancel their own credit request, only if it is still Open.
 

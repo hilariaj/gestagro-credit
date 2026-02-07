@@ -52,7 +52,7 @@ The contract uses Solidity custom errors to reduce gas usage and improve clarity
 ```md
 ```solidity
 registerFarmer(string calldata ensName)
-
+```
 
 ---
 

@@ -49,7 +49,6 @@ The contract uses Solidity custom errors to reduce gas usage and improve clarity
 
 ## 5- Farmer Registration
 
-```md
 ```solidity
 registerFarmer(string calldata ensName)
 ```

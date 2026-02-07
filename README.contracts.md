@@ -60,8 +60,6 @@ registerFarmer(string calldata ensName)
 Registered farmers can create credit requests describing their funding needs.
 Each request is stored on-chain and associated with the farmer wallet and ENS identity.
 
-### createCreditRequest
-
 ```solidity
 function createCreditRequest(
     uint256 amountWei,

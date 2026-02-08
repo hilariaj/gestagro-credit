@@ -115,8 +115,7 @@ https://youtu.be/D3XX9LJiY8c
 ## Pitch Deck
 
 Project presentation (slides):  
-👉 https://docs.google.com/presentation/d/1KEwOW3cJ42AmBOEVbKcsYoVwjeBbgRrb/edit?usp=sharing&ouid=116020601604773098053&rtpof=true&sd=true
-
+👉 https://docs.google.com/presentation/d/1KEwOW3cJ42AmBOEVbKcsYoVwjeBbgRrb/present
 
 ---
 
